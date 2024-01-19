@@ -9,8 +9,8 @@ Hello! I'm Ryan, a software engineer fueled by passion and dedication. My advent
 * 🌍  I'm based in Australia
 * 🖥️  See my portfolio at [ryandoes.dev](http://ryandoes.dev)
 * ✉️  You can contact me at [walker@ryandoes.dev](mailto:walker@ryandoes.dev)
-* 🚀  I'm currently working on [Skyline Hosting](http://skylinehosting.org)
-* 🧠  I'm learning React.JS
+* 🚀  I'm currently working on Absolutely Nothing don't look any further...
+* 🧠  I'm learning to...
 
 ### Skills
 
